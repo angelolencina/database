@@ -1,4 +1,4 @@
-[
+{"users":[
     {
       "id": 2,
       "nome": "Celso Rusomano",
@@ -18,3 +18,4 @@
       "cpf": "01983895363dfdd"
     }
   ]
+}
