@@ -1,0 +1,20 @@
+[
+    {
+      "id": 2,
+      "nome": "Celso Rusomano",
+      "email": "angelo@gmail.com",
+      "cpf": "0114256481"
+    },
+    {
+      "id": 1,
+      "nome": "Angelo Lencina",
+      "email": "Sim44@gmail.com",
+      "cpf": "01983895363"
+    },
+    {
+      "id": 24,
+      "nome": "Evandro Lencina",
+      "email": "Evalyn_Kovacek71@hotmail.com",
+      "cpf": "01983895363dfdd"
+    }
+  ]
